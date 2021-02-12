@@ -14,7 +14,20 @@ These repostery has been seperated into general and advanced part, which making 
 + 1-9 Memory reader
 + 1-10 Pointer
 + 1-11 Structure - 'struct' forming
-+ 1-12 Saving dat
 ### 2 ADVANCED SECTION
-
++ 2-1 Saving dat
++ 2-2 Advanced pointer
++ 2-3 Advanced string and memory function
++ 2-4 Self-defined data keeping type
++ 2-5 Dynamic computer memory management
++ 2-6 Document processes
++ 2-7 Programming pre-processing
 ### 3 CHESS GAME
++ 3-1 Chess game
+
+### 4 PRACTISES
++ 4-1 Tests_practises (from *2-1* to *2-3*)
+
+### 5 NOTEBOOKS AND LEARNING MATERIALS (ONLY IN CHINESE)
++ 5-1 Introduction of C language
++ 5-2 Advanced of C language and application of programming
