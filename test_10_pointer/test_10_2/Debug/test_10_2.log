@@ -1,0 +1,4 @@
+﻿  test_10_2.c
+G:\c_language\c_language_test\test_10_point\test_10_2\test_10_2.c(184,28): warning C4133: '=': incompatible types - from 'char *' to 'int *'
+G:\c_language\c_language_test\test_10_point\test_10_2\test_10_2.c(184,42): warning C4133: '>': incompatible types - from 'char *' to 'int *'
+  test_10_2.vcxproj -> G:\c_language\c_language_test\test_10_point\test_10_2\Debug\test_10_2.exe
