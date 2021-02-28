@@ -1,0 +1,3 @@
+﻿  test_10_1.c
+G:\c_language\c_language_test\test_10_point\test_10_1\test_10_1.c(130,18): warning C4133: 'function': incompatible types - from 'int [10]' to 'const char *'
+  test_10_1.vcxproj -> G:\c_language\c_language_test\test_10_point\test_10_1\Debug\test_10_1.exe
